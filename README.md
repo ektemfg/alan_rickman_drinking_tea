@@ -1,5 +1,5 @@
 # alan_rickman_drinking_tea
-
+Just a empty flutter project so classmates can fork it and make something!
 A new Flutter project.
 
 ## Getting Started
